@@ -4,6 +4,7 @@ Edit strings with \n in textarea
 Time out long running database list and select count
 Use VALUES() in INSERT+UPDATE export
 Style logout button as link
+Compress translations
 selectQueryBuild() method (customization)
 Serbian translation
 
